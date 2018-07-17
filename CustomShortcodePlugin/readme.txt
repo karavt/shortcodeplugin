@@ -1,13 +1,13 @@
 === Affiliate Disclaimer Shortcode ===
-Contributors: kararajchel
+Contributors: karavt
 Tags: shortcodes
 Requires at least: WordPress 4.9.6
 Tested up to: WordPress 4.9.6
 
-A Simple plugin to add an affiliate discliamer to your blog post with a shortcode.
+A Simple plugin to add an affiliate disclaimer to your blog post with a shortcode.
 
 == Description ==
-A Simple plugin to add an affiliate discliamer to your blog post with a shortcode. Use the shortcode [affiliate] in a post or page to add an affiliate statement to the page or post.
+A Simple plugin to add an affiliate disclaimer to your blog post with a shortcode. Use the shortcode [affiliate] in a post or page to add an affiliate statement to the page or post.
 
 == Installation ==
 1. Download the plugin.
