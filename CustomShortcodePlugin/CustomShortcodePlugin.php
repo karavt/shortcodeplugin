@@ -2,15 +2,17 @@
 
 /*
 
-* Plugin Name: Custom Shortcodes for Wildwood & Sage
+* Plugin Name: Affiliate Disclaimer Shortcode Plugin
 
-* Description: Custom Shortcodes for Wildwood & Sage
+* Description: A Simple plugin to add an affiliate disclaimer to your blog post with a shortcode.
 
 * Version: 1.0
 
 * Author: Kara Rajchel
 
 * Author URI: https://kararajchel.com
+
+* Plugin URI: https://github.com/karavt/shortcodeplugin.git
 
 */
 
